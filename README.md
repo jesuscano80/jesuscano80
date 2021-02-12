@@ -13,6 +13,7 @@ I am a Fullstack enthusiast and Node Developer. I am passionate about technologi
 :octocat: Git | Github<br>
 🌐 HTML | CSS<br>
 ☁ HTTP APIREST<br>
+📆 Agile / Kanban <br>
 
 
 <h3>📫 Get in touch</h3>
