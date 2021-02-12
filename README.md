@@ -1,7 +1,7 @@
-Hi, I am Jesús! 👨‍💻
+<h1>Hi, I am Jesús! 👨‍💻</h1>
 I am a Fullstack enthusiast and Node Developer. I am passionate about technologies and love to learn new things.
 
-🔭 I’m currently looking for new opportunities .
+<h4>🔭 I’m currently looking for new opportunities .</h4>
 
 <h3>⚡ Tech Stack</h3>
 <hr>
