@@ -7,14 +7,14 @@ I am a Fullstack enthusiast and Node Developer. I am passionate about technologi
 <hr>
  Here are a few things I've picked up along my learning journey.
 
-🗣  JavaScript | SQL
-🖇️ NodeJS
-🛢️ MySQL | MongoDB
-:octocat: Git | Github
-🌐 HTML | CSS
-☁ Angular
+🗣  JavaScript | SQL<br>
+🖇️ NodeJS<br>
+🛢️ MySQL | MongoDB<br>
+:octocat: Git | Github<br>
+🌐 HTML | CSS<br>
+☁ Angular<br>
 
 <h3>📫 Get in touch</h3>
 <hr>
-LinkedIn - Adnan Azmee
-or give some ♥ on mail .
+LinkedIn - <a href="https://www.linkedin.com/in/jes%C3%BAs-cano-82718618/">Jesús Cano</a>
+or give some ♥ on <a href="mailto:jesuscano@yahoo.es">mail.</a>
